@@ -1,0 +1,5 @@
+I have never used PyTorch before. Hence took help of the following GitHub repos from previous students of this course.
+
+https://github.com/alionaBER/sentiment_analysis/blob/master/Sentiment-Analysis-Project/SageMaker%20Project.ipynb
+https://github.com/raduenuca/sagemaker-sentiment-analysis/blob/master/SageMaker%20Project.ipynb
+https://github.com/nerdimite/sentiment-analysis-deployment/blob/master/Sagemaker_Project/SageMaker%20Project.ipynb
